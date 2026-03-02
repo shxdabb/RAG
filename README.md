@@ -1,2 +1,2 @@
 # RAG
-solving linkedlist copy w
+solving linkedlist copy with random 
